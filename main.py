@@ -178,16 +178,16 @@ Startupaplications = {
 # A dictionary for test OS - 04 
 desktop_shortcuts = {
         "OS - 04": {
-            "name": "My IT Service Desk",
-            "path": 'C:\\users\\Public\\Desktop\\My IT Service Desk.lnk',
+            "name": "",
+            "path": 'C:\\users\\Public\\Desktop\\',
         },
         "OS - 04.1": {
-            "name": "Covid FPN - Test",
-            "path": 'C:\\users\\Public\\Desktop\\Covid FPN - Test.lnk',
+            "name": "",
+            "path": 'C:\\users\\Public\\Desktop\\,
         },
         "OS - 04.2": {
-            "name": "Covid FPN - Live",
-            "path": 'C:\\users\\Public\\Desktop\\Covid FPN - Live.lnk',
+            "name": "",
+            "path": 'C:\\users\\Public\\Desktop\\',
         }
 }
 
